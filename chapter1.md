@@ -1,9 +1,6 @@
 #Chapter 1
 A basic example of prepared statements with typecasting.
 
-
-##PHP Code
-
 	//database config vars
 	//this would likely be in a config file somewhere
 	$dbDsn      = 'mysql:host=localhost;dbname=buildsecurephpapps';
