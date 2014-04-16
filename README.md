@@ -11,4 +11,4 @@ Sections covered
 * Safe Defaults, Cross Site Scripting and other Popular Hacks
 
 
-[Find out more information or purchase the book](https://leanpub.com/buildingsecurephpapps)
+[Learn More or Purchase the Book!](https://leanpub.com/buildingsecurephpapps)
