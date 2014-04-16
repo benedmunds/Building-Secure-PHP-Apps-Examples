@@ -35,7 +35,7 @@ Examples of Authentication, Access Control, and Safe File Handing
 	}
 
 
-###Method for querying the current user
+###Method for Querying the Current User
 
 	class UserModel
 	{
@@ -59,7 +59,7 @@ Examples of Authentication, Access Control, and Safe File Handing
 	}
 
 
-###Verify the user has appropriate access
+###Verify the User has Appropriate Access
 
 	class AdminController
 	{

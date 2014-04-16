@@ -44,7 +44,7 @@ Examples of Authentication and Safe File Handing
 	}
 
 
-###Generate token for form
+###Generate Token for Form
 
 	Route::get('/signup', function(){
 
